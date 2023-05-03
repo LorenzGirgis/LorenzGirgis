@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenz</h1>
-<h3 align="center">A passionate full stack developer from the Netherlands.</h3>
+<h3 align="center">A passionate full stack developer from the Netherlands and a student at the bit-academy
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzgirgis&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzgirgis" /> </p>
 
